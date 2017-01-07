@@ -141,7 +141,11 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	23.2	|	Sat, Jul 8, 2017	|	Sat, Jul 8, 2017	|	Three Programming Languages (Ruby)	|		|
 |	23.3	|	Mon, Jul 10, 2017	|	Tue, Jul 11, 2017	|	Three Programming Languages (Java)	|		|
 |		|	Wed, Jul 12, 2017	|	Thu, Jul 13, 2017	|	Project Work	|		|
-|		|	Sat, Jul 15, 2017	|	Sat, Jul 15, 2017	|	Final Project Presentations	|		|	|
+|		|	Saturday, Jul 15, 2017	|	Sat, Jul 15, 2017	|	Project Work	|		|
+|		|	Mon, Jul 17, 2017	|	Tue, Jul 18, 2017	|	Project Work	|		|
+|		|	Wed, Jul 19, 2017	|	Thu, Jul 20, 2017	|	Project Work	|		|
+|		|	Sat, Jul 22, 2017	|	Sat, Jul 22, 2017	|	Final Project Presentations	|		|	
+
 ----------
 
 
