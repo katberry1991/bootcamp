@@ -126,9 +126,9 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	19.1	|	Sat, Jun 3, 2017	|	Sat, Jun 3, 2017	|	Intro to React.js	|		|
 |	19.2	|	Mon, Jun 5, 2017	|	Tue, Jun 6, 2017	|	React States and Props	|		|
 |	19.3	|	Wed, Jun 7, 2017	|	Thu, Jun 8, 2017	|	MERN Stack (Mongo, Express, React, Node)	|		|
-|	20.1	|	Sat, Jun 10, 2017	|	Sat, Jun 10, 2017	|	Intro to PHP	|		|
-|	20.2	|	Mon, Jun 12, 2017	|	Tue, Jun 13, 2017	|	Intro to Laravel	|		|	
-|	20.3	|	Wed, Jun 14, 2017	|	Thu, Jun 15, 2017	|	Laravel	|		|
+|	20.1	|	Sat, Jun 10, 2017	|	Sat, Jun 10, 2017	|	Java	|		|
+|	20.2	|	Mon, Jun 12, 2017	|	Tue, Jun 13, 2017	|	Java	|		|	
+|	20.3	|	Wed, Jun 14, 2017	|	Thu, Jun 15, 2017	|	Java	|		|
 |	21.1	|	Sat, Jun 17, 2017	|	Sat, Jun 17, 2017	|	React Native	|		|
 |	21.2	|	Mon, Jun 19, 2017	|	Tue, Jun 20, 2017	|	React Native / Intro to Project # 3	|		|
 |	21.3	|	Wed, Jun 21, 2017	|	Thu, Jun 22, 2017	|	React Native	|		|
@@ -139,9 +139,9 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |		|	Mon, Jul 3, 2017	|	Tue, Jul 4, 2017	|	Fourth of July + Extra Help Day	|		|
 |	23.1	|	Wed, Jul 5, 2017	|	Thu, Jul 6, 2017	|	Three Programming Languages (Python)	|		|
 |	23.2	|	Sat, Jul 8, 2017	|	Sat, Jul 8, 2017	|	Three Programming Languages (Ruby)	|		|
-|	23.3	|	Mon, Jul 10, 2017	|	Tue, Jul 11, 2017	|	Three Programming Languages (Java)	|		|
+|	23.3	|	Mon, Jul 10, 2017	|	Tue, Jul 11, 2017	|	Three Programming Languages (PHP)	|		|
 |		|	Wed, Jul 12, 2017	|	Thu, Jul 13, 2017	|	Project Work	|		|
-|		|	Saturday, Jul 15, 2017	|	Sat, Jul 15, 2017	|	Project Work	|		|
+|		|	Sat, Jul 15, 2017	|	Sat, Jul 15, 2017	|	Project Work	|		|
 |		|	Mon, Jul 17, 2017	|	Tue, Jul 18, 2017	|	Project Work	|		|
 |		|	Wed, Jul 19, 2017	|	Thu, Jul 20, 2017	|	Project Work	|		|
 |		|	Sat, Jul 22, 2017	|	Sat, Jul 22, 2017	|	Final Project Presentations	|		|	
