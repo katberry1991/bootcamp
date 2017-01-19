@@ -49,6 +49,8 @@ You must give a full effort on every group and individual project.
 
 [Student x Student Tutoring Form](https://docs.google.com/forms/d/1fXbpAgtWnEv_pSz1xoddo0-3dqoAXAn1fOyOv29YBi8/viewform)
 
+[Link to Helpful Programming Resources](https://goo.gl/vqCBHc)
+
 
 -----------------------------------------
 
