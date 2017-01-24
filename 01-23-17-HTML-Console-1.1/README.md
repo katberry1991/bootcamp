@@ -63,7 +63,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 
 |	Lesson	|	Date (M/W)	|	Date (T/Th)	|	Coding Content	|	Recordings	|
 |	----------------------------	|	----------------------------	|	----------------------------	|	----------------------------	|	----------------------------	|
-|	1.1	|	Mon, Jan 23, 2017	|	Tue, Jan 24, 2017	|	Intro to Program / Intro to HTML 	|		|
+|	1.1	|	Mon, Jan 23, 2017	|	Tue, Jan 24, 2017	|	Intro to Program / Intro to HTML 	|	[Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7235b58b-af85-4dd8-9387-e6e7a8c31bbe)	|
 |	1.2	|	Wed, Jan 25, 2017	|	Thu, Jan 26, 2017	|	Intro to Git / Intro to CSS	|		|
 |	1.3	|	Sat, Jan 28, 2017	|	Sat, Jan 28, 2017	|	Intro to CSS Layouts	|		|
 |	2.1	|	Mon, Jan 30, 2017	|	Tue, Jan 31, 2017	|	Going Live with Heroku	|		|
