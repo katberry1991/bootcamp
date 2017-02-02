@@ -66,7 +66,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	1.1	|	Mon, Jan 23, 2017	|	Tue, Jan 24, 2017	|	Intro to Program / Intro to HTML 	|	[Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7235b58b-af85-4dd8-9387-e6e7a8c31bbe)	[Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a6a1593e-628a-4c3b-a20c-50f2ca1888fb)|
 |	1.2	|	Wed, Jan 25, 2017	|	Thu, Jan 26, 2017	|	Intro to Git / Intro to CSS	|	[Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=da29f119-fa99-4668-a58a-649333431e39) [Thursday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=67cae806-ab96-4494-968e-530cc27da3a3)	|
 |	1.3	|	Sat, Jan 28, 2017	|	Sat, Jan 28, 2017	|	Intro to CSS Layouts	| [Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=92a42191-c517-4e5b-978d-15ee62966e87) |
-|	2.1	|	Mon, Jan 30, 2017	|	Tue, Jan 31, 2017	|	Going Live with Heroku	|	[Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f83c7805-6f4c-4203-8ffa-e803e9d5c0df)	|
+|	2.1	|	Mon, Jan 30, 2017	|	Tue, Jan 31, 2017	|	Going Live with Heroku	|	[Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f83c7805-6f4c-4203-8ffa-e803e9d5c0df)	[Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0235a304-f1b3-4b90-bae9-4164480da241)|
 |	2.2	|	Wed, Feb 1, 2017	|	Thu, Feb 2, 2017	|	External CSS Styles	|		|
 |	2.3	|	Sat, Feb 4, 2017	|	Sat, Feb 4, 2017	|	Introduction to Bootstrap	|		|
 |	3.1	|	Mon, Feb 6, 2017	|	Tue, Feb 7, 2017	|	Intro to Javascript (Variables, Arrays, Alerts)	|		|

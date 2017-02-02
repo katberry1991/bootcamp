@@ -1,0 +1,32 @@
+#title {
+	font-family: 'Barrio', cursive;
+}
+
+#title:hover {
+	font-size: 100px;
+}
+
+#totes_a_btn:hover {
+	font-size: 30px;
+	color: purple;
+}
+
+.banana:nth-child(3n) {
+
+}
+
+a {
+	color: yellow;
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
+
+a:focus {
+	
+}
