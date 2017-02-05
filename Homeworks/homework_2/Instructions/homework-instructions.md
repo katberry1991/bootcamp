@@ -50,15 +50,7 @@ You will be fully capable of doing this homework by the end of Saturday's class.
 
 2. Use Bootstrap CSS to recreate the portfolio you built last week. Your Bootstrap solution should *not* make explicit use of media queries.
 
-3. Create the `index.php` and `composer.json` inside `Bootstrap-Portfolio`
-  * Make sure you have `<?php include_once("yourFileNameHere"); ?>` and `{}` for those files.
-
-4. Deploy your new Bootstrap-powered portfolio to Heroku. Remember:
-  * `heroku login`
-  * `heroku create`
-  * `git push heroku master`
-
-5. Alternatively, deploy your new portfolio using the `gh_pages` branch of your repository.
+3. Deploy your new portfolio using the `gh_pages` branch of your repository.
 
 ### Submitting Your Work on [BootcampSpot.com](http://bootcampspot.com/)
 
