@@ -8,24 +8,25 @@
 
     <script type="text/javascript">
 
-      // INitizlize variable with empty array and declaring tvShow variable.
+      // Creating an empty array for our favorite TV shows.
       var favTVshows = [];
       var tvShow;
 
-      // For Loop Elements Repeats 3 Times
+      // For-Loop that will repeat three times.
       for (var i = 1; i < 4; i++) {
 
-        // recevives input from user when prompt asks question about tv show.
+        // Each time it asks the user for their #1, #2, or #3 TV show.
         tvShow = prompt("What's your #" + i + " favorite TV show?");
 
-        // 
+        // It then takes the user's response and "pushes" (or adds) the variable to the end of the favTVshows array.
         favTVshows.push(tvShow);
       }
 
-      // loop over all tv shows
+
+      // We then loop through the favTVshows array...
       for (i = 0; i < favTVshows.length; i++) {
 
-        // alert each tv show as loop runs
+        // ...and create alert messages listing out each show in our array.
         alert(favTVshows[i]);
       }
 

@@ -70,8 +70,8 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	2.2	|	Wed, Feb 1, 2017	|	Thu, Feb 2, 2017	|	External CSS Styles	|	[Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0b9fd3f7-a2a8-4d62-a6c6-f6ff2a1cb68d) [Thursday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1753ad2c-a365-4d07-a81f-7e747c2d03c8)	|
 |	2.3	|	Sat, Feb 4, 2017	|	Sat, Feb 4, 2017	|	Introduction to Bootstrap	|	 [Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=79e3d5b6-53b0-4ce0-9bdb-a08de14eef19)	|
 |	3.1	|	Mon, Feb 6, 2017	|	Tue, Feb 7, 2017	|	Intro to Javascript (Variables, Arrays, Alerts)	|	[Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b8b71d98-3f43-44e3-9d48-5aa708c5e9b6) [Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b5637521-2cd0-4be1-80e3-0721548d37f8)	|
-|	3.2	|	Wed, Feb 8, 2017	|	Thu, Feb 9, 2017	|	Javascript Cont (Conditionals, For-Loops)	|		|
-|	3.3	|	Sat, Feb 11, 2017	|	Sat, Feb 11, 2017	|	Javascript Cont (Functions, Objects)	|		|
+|	3.2	|	Wed, Feb 8, 2017	|	Thu, Feb 9, 2017	|	Javascript Cont (Conditionals, For-Loops)	|	[Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=873941b6-a4ff-455f-a1f0-a27da7c45287) [Thursday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=74a1904d-d5db-4357-992e-3b38a38db0f1)	|
+|	3.3	|	Sat, Feb 11, 2017	|	Sat, Feb 11, 2017	|	Javascript Cont (Functions, Objects)	|	 [Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=25ce5599-555e-42ef-873b-9cdd3bc14606)	|
 |	4.1	|	Mon, Feb 13, 2017	|	Tue, Feb 14, 2017	|	Intro to jQuery	|		|
 |	4.2	|	Wed, Feb 15, 2017	|	Thu, Feb 16, 2017	|	DOM Manipulation with jQuery	|		|
 |	4.3	|	Sat, Feb 18, 2017	|	Sat, Feb 18, 2017	|	jQuery Calculator Build	|		|

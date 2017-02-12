@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>My First Function</title>
+  </head>
+  <body>
+
+    <h1>Open the console to see the magic!</h1>
+    
+    <script>
+
+      // FUNCTIONS
+      // ================================================================================
+
+      // Creates a Function called "adder" that take three arguments (x, y, z).
+      // The function should add the arguments together, and log the result to the console.
+      function adder(x, y, z) {
+        console.log(x + y + z);
+      }
+
+
+
+      // Creates a Function called "multiplier" that takes three arguments (x, y, z).
+      // The function should multiply the arguments, and log the result to the console.
+      function multiplier(x, y, z) {
+        console.log(x * y * z);
+      }
+
+
+
+      // Creates a Function called "isString" that takes three arguments (x, y, z).
+      // "isString" determines if all three arguments are strings and logs an appropriate response to the console.
+
+      function isString(x, y, z) {
+        if (typeof x === "string") {
+          console.log("yay," + x + " is a str!");
+        }
+        if (typeof y === "string") {
+          console.log("yay," + y + " is a str!");
+        }
+        if (typeof z === "string") {
+          console.log("yay, " + z + " is a str");
+        }
+      }
+
+
+
+      // Creates a Function called "vowelChecker" that takes in a single argument (x).
+      // "vowlChecker" logs whether or not the input is a vowel.
+      function vowelChecker(x) {
+        if (x === "a" || x === "e" || x === "i" || x === "o") {
+          console.log(x + " is a vowel!");
+        }
+      }
+
+
+
+      // FUNCTION EXECUTION
+      // ================================================================================
+
+      // Add in the lines of code below necessary to call the functions we created above.
+
+
+      // Call the adder function here.
+      adder(45, 18, 3);
+      console.log("-------------------");
+
+
+      // Call the multiplier function here.
+
+      multiplier(45, 18, 3);
+      console.log("-------------------");
+
+
+      // Call the isString function here.
+
+      isString("pickle", true, 18);
+      console.log("-------------------");
+
+
+      // Call the vowelChecker function here.
+
+
+    </script>
+
+  </body>
+</html>
