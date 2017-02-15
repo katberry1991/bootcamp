@@ -56,6 +56,25 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 
 
 -----------------------------------------
+
+
+###Unit 1 - HTML, CSS, and GIT
+
+[Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorClK-ZG5jYqbdgOD2DRHROkT)
+
+[Homework Solution Video](https://youtu.be/qMbCiVYQLCU)
+
+- - -
+
+###Unit 2 - Heroku and Bootstrap
+
+[Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorCkLBEm5V0IzuhjdWBeKvrOC)
+
+[Homework Solution Video #1](https://youtu.be/jF0kIhpX6tk)
+
+[Homework Solution Video #2](https://youtu.be/C3cMAcsv1Lg)
+
+-----------------------------------------------------------
 ## Curriculum By Week
 
 
@@ -72,7 +91,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	3.1	|	Mon, Feb 6, 2017	|	Tue, Feb 7, 2017	|	Intro to Javascript (Variables, Arrays, Alerts)	|	[Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b8b71d98-3f43-44e3-9d48-5aa708c5e9b6) [Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b5637521-2cd0-4be1-80e3-0721548d37f8)	|
 |	3.2	|	Wed, Feb 8, 2017	|	Thu, Feb 9, 2017	|	Javascript Cont (Conditionals, For-Loops)	|	[Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=873941b6-a4ff-455f-a1f0-a27da7c45287) [Thursday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=74a1904d-d5db-4357-992e-3b38a38db0f1)	|
 |	3.3	|	Sat, Feb 11, 2017	|	Sat, Feb 11, 2017	|	Javascript Cont (Functions, Objects)	|	 [Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=25ce5599-555e-42ef-873b-9cdd3bc14606)	|
-|	4.1	|	Mon, Feb 13, 2017	|	Tue, Feb 14, 2017	|	Intro to jQuery	|		|
+|	4.1	|	Mon, Feb 13, 2017	|	Tue, Feb 14, 2017	|	Intro to jQuery	|	[Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ae9926c0-e88b-41b4-ae9c-e325ba8863d1) [Tuesday-Part-1](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a9973ecd-a494-4475-9baf-911c5c0a5d0a) [Tuesday-Part-2](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=513cc05a-a829-419d-84ff-164fb506494f)	|
 |	4.2	|	Wed, Feb 15, 2017	|	Thu, Feb 16, 2017	|	DOM Manipulation with jQuery	|		|
 |	4.3	|	Sat, Feb 18, 2017	|	Sat, Feb 18, 2017	|	jQuery Calculator Build	|		|
 |		|	Mon, Feb 20, 2017	|	Tue, Feb 21, 2017	|	President's Day Holidays	|		|
