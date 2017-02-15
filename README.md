@@ -75,7 +75,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	4.1	|	Mon, Feb 13, 2017	|	Tue, Feb 14, 2017	|	Intro to jQuery	|		|
 |	4.2	|	Wed, Feb 15, 2017	|	Thu, Feb 16, 2017	|	DOM Manipulation with jQuery	|		|
 |	4.3	|	Sat, Feb 18, 2017	|	Sat, Feb 18, 2017	|	jQuery Calculator Build	|		|
-|		|	Mon, Feb 20, 2017	|	Tue, Feb 21, 2017	|	President's Day + Extra Help	|		|
+|		|	Mon, Feb 20, 2017	|	Tue, Feb 21, 2017	|	President's Day Holidays	|		|
 |	5.1	|	Wed, Feb 22, 2017	|	Thu, Feb 23, 2017	|	Javascript Review Day	|		|
 |	5.2	|	Sat, Feb 25, 2017	|	Sat, Feb 25, 2017	|	Javascript / jQuery Timers	|		|
 |	5.3	|	Mon, Feb 27, 2017	|	Tue, Feb 28, 2017	|	Technical Interview Day #1	|		|
