@@ -74,6 +74,12 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 
 [Homework Solution Video #2](https://youtu.be/C3cMAcsv1Lg)
 
+- - -
+
+###Unit 3 - Intro to JavaScript
+
+[Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorCmEChEWfh7sxPvQwYAx3Kt0)
+
 -----------------------------------------------------------
 ## Curriculum By Week
 
