@@ -45,6 +45,8 @@ You must give a full effort on every group and individual project.
 
 [Link to Helpful Programming Resources](https://goo.gl/vqCBHc)
 
+[Homework Checklist](https://docs.google.com/document/d/1eywyuewFYKGk7a-ndH0XgGHDmi3qdfuZkeuNxwcTzEM)
+
 
 -----------------------------------------
 
