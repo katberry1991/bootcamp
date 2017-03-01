@@ -86,9 +86,17 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 
 - - -
 
-### [Unit 4 - Intro to jQuery](02-lesson-plans/04-jquery-rpg)
+### Unit 4 - Intro to jQuery
 
 [Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorCn05TQ1Ui8_lTnhizYcEFX7)
+
+[Homework Solution Video](https://youtu.be/ki36iUBbCDY)
+
+- - -
+
+### Unit 5 - JS Timers, Review, and Trivia
+
+[Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorCncwPdhG7Z7A2HOAKcnmIQr)
 
 -----------------------------------------------------------
 ## Curriculum By Week
