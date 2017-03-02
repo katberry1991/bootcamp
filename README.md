@@ -119,9 +119,9 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	4.2	|	Wed, Feb 15, 2017	|	Thu, Feb 16, 2017	|	DOM Manipulation with jQuery	|	[Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ead1e7e-de83-4c5c-a777-f2e5811c53c1) [Thursday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8549dfeb-dfaa-457d-89fb-4fa722b45885)	|
 |	4.3	|	Sat, Feb 18, 2017	|	Sat, Feb 18, 2017	|	jQuery Calculator Build	|	[Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b2833e2f-1e3e-4dd8-8edf-c8bdcee0143a)	|
 |		|	Mon, Feb 20, 2017	|	Tue, Feb 21, 2017	|	President's Day Holidays	|		|
-|	5.1	|	Wed, Feb 22, 2017	|	Thu, Feb 23, 2017	|	Javascript Review Day	|		|
+|	5.1	|	Wed, Feb 22, 2017	|	Thu, Feb 23, 2017	|	Javascript Review Day	|	[Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a9699b2b-3980-4f42-bec2-0a35e353fbf2) [Thursday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=57398232-cbec-4f64-9131-f4ed2d13a2df)	|
 |	5.2	|	Sat, Feb 25, 2017	|	Sat, Feb 25, 2017	|	Javascript / jQuery Timers	|		|
-|	5.3	|	Mon, Feb 27, 2017	|	Tue, Feb 28, 2017	|	Technical Interview Day #1	|		|
+|	5.3	|	Mon, Feb 27, 2017	|	Tue, Feb 28, 2017	|	Technical Interview Day #1	|	[Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=df3d2e58-2ac2-4a94-a2c7-6d9cff6e74cd) [Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4d4a2739-db66-4f70-ad68-d0b5e10a8b3a)	|
 |	6.1	|	Wed, Mar 1, 2017	|	Thu, Mar 2, 2017	|	Intro to APIs and AJAX	|		|
 |	6.2	|	Sat, Mar 4, 2017	|	Sat, Mar 4, 2017	|	Advanced AJAX	|		|
 |	6.3	|	Mon, Mar 6, 2017	|	Tue, Mar 7, 2017	|	New York Times Real World App Development	|		|
