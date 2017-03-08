@@ -45,7 +45,15 @@
 
         // =================================================================
 
-        // CODE GOES HERE
+        // CODE GOES HERE   
+	
+	$.ajax({
+      url: queryURL,
+      method: "GET"
+    }).done(function(response) {
+	 console.log(response);
+	 $("#movie-view").html(JSON.stringify(response)});
+		
 
         // =================================================================
       });
