@@ -1,6 +1,6 @@
 // SETUP VARIABLES
 // =========================================
-var authKey = "9d4a8986921972b65754ea0809d47c84:12:74623931";
+var authKey = "88379146782e41ca858413310981f7cf";
 
 // Search Parameters
 var queryTerm = "";
@@ -9,7 +9,7 @@ var startYear = 0;
 var endYear = 0;
 
 // URL Base
-var queryURLBase = "http://api.nytimes.com/svc/search/v2/articlesearch.json?api-key=" + authKey;
+var queryURLBase = "https://api.nytimes.com/svc/search/v2/articlesearch.json?api-key=" + authKey;
 
 // FUNCTIONS
 // =========================================
