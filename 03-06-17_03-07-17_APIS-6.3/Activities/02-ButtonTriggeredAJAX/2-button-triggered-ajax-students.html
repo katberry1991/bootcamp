@@ -36,6 +36,15 @@
       big
     </button>
 
+    <button data-person="John Oliver">
+      Birdie Face Funny Man
+    </button>
+    <button data-person="Tom Hanks">
+      Big
+    </button>
+    <button data-person="Supa Hot Fiya">
+      I'm not a rapper
+    </button>
     <!-- **************************************** -->
  <div id="buttons">
     <button data-person="halle berry">
@@ -63,6 +72,7 @@
           method: "GET"
         })
         .done(function(response) {
+          console.log(response);
           var results = response.data;
 
           for (var i = 0; i < results.length; i++) {
