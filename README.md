@@ -98,9 +98,18 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 
 [Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorCncwPdhG7Z7A2HOAKcnmIQr)
 
------------------------------------------------------------
+[Homework Solution Video (Easy)](https://www.youtube.com/watch?v=3eWhkc_u5rE&index=6&list=PLgJ8UgkiorClJwRrLq8f9QuzgTflJoeH2)
+
+[Homework Solution Video (Advanced)](https://youtu.be/KndV7UxLpnk)
+
+- - -
+
+### [Unit 6 - Intro to APIs and AJAX](02-lesson-plans/06-ajax)
+
+[Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorCmRwLl7YKfFxmNySuAhNdmC)
 ## Curriculum By Week
 
+-----------------------------------------------------------
 
 ##### The material covered in this syllabus is subject to change. Our academic team adjusts to the market rapidly.
 
