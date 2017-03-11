@@ -98,9 +98,18 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 
 [Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorCncwPdhG7Z7A2HOAKcnmIQr)
 
------------------------------------------------------------
+[Homework Solution Video (Easy)](https://www.youtube.com/watch?v=3eWhkc_u5rE&index=6&list=PLgJ8UgkiorClJwRrLq8f9QuzgTflJoeH2)
+
+[Homework Solution Video (Advanced)](https://youtu.be/KndV7UxLpnk)
+
+- - -
+
+### [Unit 6 - Intro to APIs and AJAX](02-lesson-plans/06-ajax)
+
+[Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorCmRwLl7YKfFxmNySuAhNdmC)
 ## Curriculum By Week
 
+-----------------------------------------------------------
 
 ##### The material covered in this syllabus is subject to change. Our academic team adjusts to the market rapidly.
 
@@ -123,9 +132,9 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	5.2	|	Sat, Feb 25, 2017	|	Sat, Feb 25, 2017	|	Javascript / jQuery Timers	|		|
 |	5.3	|	Mon, Feb 27, 2017	|	Tue, Feb 28, 2017	|	Technical Interview Day #1	|	[Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=df3d2e58-2ac2-4a94-a2c7-6d9cff6e74cd) [Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4d4a2739-db66-4f70-ad68-d0b5e10a8b3a)	|
 |	6.1	|	Wed, Mar 1, 2017	|	Thu, Mar 2, 2017	|	Intro to APIs and AJAX	|	[Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d801e149-4450-4622-afa0-49ace26603e2)	|
-|	6.2	|	Sat, Mar 4, 2017	|	Sat, Mar 4, 2017	|	Advanced AJAX	|		|
-|	6.3	|	Mon, Mar 6, 2017	|	Tue, Mar 7, 2017	|	New York Times Real World App Development	|		|
-|	7.1	|	Wed, Mar 8, 2017	|	Thu, Mar 9, 2017	|	Client Side Storage with Local Storage	|		|
+|	6.2	|	Sat, Mar 4, 2017	|	Sat, Mar 4, 2017	|	Advanced AJAX	|		[Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=79632049-02c9-47c4-8f05-204ba331edd9)|
+|	6.3	|	Mon, Mar 6, 2017	|	Tue, Mar 7, 2017	|	New York Times Real World App Development	|	[Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cef5de2a-7b3a-4a4b-bc0b-eaf5e5501fa0)	|
+|	7.1	|	Wed, Mar 8, 2017	|	Thu, Mar 9, 2017	|	Client Side Storage with Local Storage	|	[Wednesday - Part 1](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fbb358bb-c646-47b1-9ad5-86f400907b5c) [Wednesday - Part 2](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2119e2d2-4527-4531-9773-089d32a7c013)[Thursday - Part 1](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e6852f06-56a0-4824-800c-b9405ca0f58b) [Thursday - Part 2](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=34133c36-3a11-4368-8eb4-e0573fc2cb0b)	|
 |	7.2	|	Sat, Mar 11, 2017	|	Sat, Mar 11, 2017	|	Intro to Firebase	|		|
 |	7.3	|	Mon, Mar 13, 2017	|	Tue, Mar 14, 2017	|	Firebase Application Building / Group Projects Announced	|		|
 |	8.1	|	Wed, Mar 15, 2017	|	Thu, Mar 16, 2017	|	Intro to Project #1 / Project Work	|		|
