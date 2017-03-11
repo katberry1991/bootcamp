@@ -93,3 +93,6 @@
 	- Students should become familiar with the concepts of `localStorage` and `cookies`.
 	- Students should complete the Sign-in Page with localStorage activity.
 	- Students should complete the To-Do App with localStorage activity.
+- 7.2
+	- To introduce the utility of server-side storage systems like Firebase
+	- To provide a grasp of the basic methods for storing and retrieving data in Firebase
