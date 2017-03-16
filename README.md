@@ -38,7 +38,7 @@ You must give a full effort on every group and individual project.
 
 [Powerpoint](https://uclax.bootcampcontent.com/UCLA-Coding-Boot-Camp/01-17-Class-Content/blob/master/API_Project_Week_1.pptx)
 
-
+[Project 1 Requirements Markdown](https://uclax.bootcampcontent.com/UCLA-Coding-Boot-Camp/01-17-Class-Content/blob/master/project-requirements-1.md)
 
 
 -----------------------------------------
