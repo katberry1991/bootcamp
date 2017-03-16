@@ -34,6 +34,10 @@ Written permission must be obtained to miss class or it's considered one of your
 
 You must give a full effort on every group and individual project.
 
+## Project 1 Requirements
+
+- 
+
 
 -----------------------------------------
 
