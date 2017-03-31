@@ -118,6 +118,10 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 
 - - -
 
+### [Unit 7 - Intro to Local Storage and Firebase](02-lesson-plans/07-firebase/)
+
+[Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorCkg74BLGZkgtJsRDQX51YbU)
+
 ## Curriculum By Week
 
 -----------------------------------------------------------
