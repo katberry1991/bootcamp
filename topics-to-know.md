@@ -96,3 +96,20 @@
 - 7.2
 	- To introduce the utility of server-side storage systems like Firebase
 	- To provide a grasp of the basic methods for storing and retrieving data in Firebase
+- 7.3
+	- Students should understand the following Firebase methods .push({}) and .on("child_added")
+	- Students should understand the utility of the MomentJS library for date-time manipulation
+	- Students should complete and understand the TimeSheet Application
+	- Students should complete and understand the Train Prediction Activity
+	- Students should build their confidence at building applications from scratch
+	- Students should understand the concept of creating lists and children using Firebase
+- 10.1
+	-	Students should be able to articulate definitions of web servers, web clients, requests, and responses.
+	- Students should be able to articulate a preliminary definition of Node and its role in back-end web development.
+	- Students should be able to utilize process.argv to capture command line arguments using Node.
+- 10.2
+	- Students should know how to use the Node internal fs package to read, write, and append files.
+	- Students should know how to use the external NPM package request to perform GET requests on webpages.
+- 10.3
+	- Students should understand the utility of NPM packages and the process for including them in Node applications.
+	- Students should understand how to use the inquirer.JS NPM package for handling user inputs on the command line
