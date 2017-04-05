@@ -161,9 +161,9 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	8.3	|	Mon, Mar 20, 2017	|	Tue, Mar 21, 2017	|	Project Work	|		|
 |	9.1	|	Wed, Mar 22, 2017	|	Thu, Mar 23, 2017	|	Interview Questions / Project Work	|		|
 |	9.3	|	Sat, Mar 25, 2017	|	Sat, Mar 25, 2017	|	Project Presentations #1	|		|
-|	10.1	|	Mon, Mar 27, 2017	|	Tue, Mar 28, 2017	|	Intro to Node.js	|		|
-|	10.2	|	Wed, Mar 29, 2017	|	Thu, Mar 30, 2017	|	Reading and Writing Files with Node	|	[Thursday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ce73c85f-0c29-4e6c-94c2-194db9909562)	|
-|	10.3	|	Sat, Apr 1, 2017	|	Sat, Apr 1, 2017	|	NPM Packages	|		|
+|	10.1	|	Mon, Mar 27, 2017	|	Tue, Mar 28, 2017	|	Intro to Node.js	|	[Monday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=150aadeb-3169-4635-9d0c-797962ffb573) [Tuesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7c964cdb-9296-4540-a08c-2d723c7b12d2)	|
+|	10.2	|	Wed, Mar 29, 2017	|	Thu, Mar 30, 2017	|	Reading and Writing Files with Node	|	[Wednesday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=64a94168-32b1-46d6-9a3e-72e325e9a9a1) [Thursday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ce73c85f-0c29-4e6c-94c2-194db9909562)	|
+|	10.3	|	Sat, Apr 1, 2017	|	Sat, Apr 1, 2017	|	NPM Packages	|	[Saturday](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ed99eba-0943-43f5-957b-ababf6a937b8)	|
 |	11.1	|	Mon, Apr 3, 2017	|	Tue, Apr 4, 2017	|	Javascript Constructors Pt I	|		|
 |	11.2	|	Wed, Apr 5, 2017	|	Thu, Apr 6, 2017	|	Javascript Constructors Pt II	|		|
 |	11.3	|	Sat, Apr 8, 2017	|	Sat, Apr 8, 2017	|	Javascript Callbacks	|		|
