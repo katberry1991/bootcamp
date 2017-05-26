@@ -1,0 +1,15 @@
+{
+  "name": "brandon-is-a-nerd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "iceCreamDBConnection.js",
+  "dependencies": {
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
